@@ -42,7 +42,6 @@ pip3 install -r requirements.txt
 ## Todo list
 - Add more option to select data from api
 - Add more detailed error messages
-- Filter DNS records to just records accept ip as value
 
 ## External Resources
 > [YouTube API documentation](https://developers.google.com/youtube/) 
